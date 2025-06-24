@@ -7,8 +7,8 @@ import Login from './pages/Login';
 import PatientDashboard from './pages/PatientDashboard';
 import DoctorDashboard from './pages/DoctorDashboard';
 import BookAppointment from './pages/BookAppointment';
-import About from './components/About';     // ✅ Make sure this file exists
-import Contact from './components/Contact'; // ✅ Make sure this file exists
+import About from './components/About';    
+import Contact from './components/Contact'; 
 
 function App() {
   return (
